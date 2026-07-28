@@ -39,8 +39,8 @@ cp .env.example .env
 Open `.env` and add your Plex and TMDB credentials:
 ```ini
 PLEX_URL="http://[YOUR_PLEX_IP]:32400"
-PLEX_TOKEN="your_plex_token"
-TMDB_API_KEY="your_tmdb_api_key"
+PLEX_TOKEN="[YOUR_PLEX_TOKEN_HERE]"
+TMDB_API_KEY="[YOUR_TMDB_API_KEY_HERE]"
 ```
 
 ### 3. Customize Your Streaming Providers
